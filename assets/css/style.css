@@ -33,7 +33,7 @@
 .bg-image {
   height: 100vh;
   min-height: 100px;
-  background-image: url("../images/concert-crowd.png");
+  background-image: url("../images/concert-crowd.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
